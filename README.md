@@ -14,4 +14,6 @@
 
 <div id="header align="center">
 
+<img src="64.media.tumblr.com/dcff0f7ba5097e7c9e5288daaaa8558f/82f062ad64b65975-c3/s100x200/f87c80b4d32abeafb6a4cdaa677bc08e9eed106b.pnj" alt="divider" width="150px" align="center">
+
 rentry strawpage atabook
