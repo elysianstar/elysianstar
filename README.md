@@ -6,6 +6,8 @@
 
 <div id="header" align="center">
 
+-------------
+
 ***自分に勝てれば、明日勝てると思う***
 
 <div id="header" align="center">
@@ -13,5 +15,3 @@
 *"if I could overcome myself today, I'll be able to attain victory tomorrow."*
 
 rentry strawpage atabook
-
-<img src="https://files.catbox.moe/h70jcu.png" alt="stamp" width="150px" align="center">
