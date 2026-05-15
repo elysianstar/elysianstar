@@ -12,8 +12,7 @@
 
 *"if I could overcome myself today, I'll be able to attain victory tomorrow."*
 
-<img src="https://files.catbox.moe/h70jcu.png" alt="stamp" width="150px" align="center">
-
 rentry strawpage atabook
 
 <div id="header" align="center">
+<img src="https://files.catbox.moe/h70jcu.png" alt="stamp" width="150px" align="center">
