@@ -5,5 +5,3 @@
 <div id="header" align="center"
 
 <img src="https://files.catbox.moe/4zl1ct.png" width="350px" align="center">
-
-<div id="header" align="center">
