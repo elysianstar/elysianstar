@@ -18,4 +18,4 @@
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
-rentry strawpage atabook
+[<ins>rentry](rentry.co/neon-genesis-angels) strawpage [<ins>atabook](hakanai.atabook.org/)
