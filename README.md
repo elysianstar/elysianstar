@@ -4,7 +4,7 @@
 
 <div id="header" align="center"
 
-<img src="https://img.sanishtech.com/u/4b989c8d06562b30bc932c2efbcf283b.png" width="350px" align="center">
+<img src="cdn.discordapp.com/attachments/1221290127473508443/1504728865262801017/tumblr_72badd711c3ec991823dad76241fa25b_b7f4ee5f_250.png?ex=6a080b75&is=6a06b9f5&hm=b251ae2718339072e2ef6e9449e72f4ac371389d4772b79edebaf7735a322bdc&" width="350px" align="center">
 
 <div id="header" align="center">
 
