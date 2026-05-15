@@ -14,7 +14,7 @@
 
 <div id="header" align="center">
 
-<img src="https://files.catbox.moe/h70jcu.png" alt="divider" width="150px" align="center">
+<img src="https://files.catbox.moe/h70jcu.png" width="150px" align="center">
 
 <div id="header" align="center">
 
