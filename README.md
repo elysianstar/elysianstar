@@ -4,7 +4,6 @@
 
 <div id="header" align="center"
 
-<img width="250" height="250" alt="17788249569285515372353255223269" src="https://github.com/user-attachments/assets/a79c8dd0-5c63-4daf-903f-926645ce9722" />
-
+<img src="https://files.catbox.moe/4zl1ct.png" width="350px" align="center">
 
 <div id="header" align="center">
