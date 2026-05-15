@@ -6,6 +6,8 @@
 
 <div id="header" align="center">
 
+<div id="header" align="center">
+  
 自分に勝てれば、明日勝てると思う
 
 
