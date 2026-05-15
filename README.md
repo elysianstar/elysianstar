@@ -14,4 +14,8 @@
 
 *"if I could overcome myself today, I'll be able to attain victory tomorrow."*
 
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+
 rentry strawpage atabook
