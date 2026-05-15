@@ -10,5 +10,6 @@
   
 自分に勝てれば、明日勝てると思う
 
+<div id="header align="center">
 
 rentry strawpage atabook
