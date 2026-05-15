@@ -14,6 +14,6 @@
 
 <img src="https://files.catbox.moe/h70jcu.png" width="150px" align="center">
 
-<div id="header" align="center">
-
 rentry strawpage atabook
+
+<div id="header" align="center">
