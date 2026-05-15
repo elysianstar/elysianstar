@@ -4,4 +4,4 @@
 
 <div id="header" align="center"
 
-<img src="[https://kommodo.ai/i/kEOwxCWZMmj76y6Znyzi]" width="350px" align="center">
+<img src="https://kommodo.ai/i/kEOwxCWZMmj76y6Znyzi" width="350px" align="center">
