@@ -12,8 +12,6 @@
 
 *"if I could overcome myself today, I'll be able to attain victory tomorrow."*
 
-<div id="header" align="center">
-
 <img src="https://files.catbox.moe/h70jcu.png" width="150px" align="center">
 
 <div id="header" align="center">
