@@ -18,4 +18,4 @@
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
-[<ins>rentry](rentry.co/neon-genesis-angels) [<ins>strawpage](my-beloved-summer.straw.page/) [<ins>atabook](hakanai.atabook.org/)
+[<ins>*rentry*](https://rentry.co/neon-genesis-angels) [<ins>*strawpage*](https://my-beloved-summer.straw.page/) [<ins>*atabook*](https://hakanai.atabook.org/)
