@@ -2,20 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=elysianstar&label=ᖭི༏ᖫྀ+ANGELS+&style=plastic&color=BF0D1C&abbreviated=true)
 
-<img src="https://files.catbox.moe/4zl1ct.png" alt="rei" width="350px" align="center">
+hello hi under construction ill fix this soon i think
 
 <div id="header" align="center">
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-
-***自分に勝てれば、明日勝てると思う***
-
-<div id="header" align="center">
-
-*"if I could overcome myself today, I'll be able to attain victory tomorrow."*
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 [<ins>*rentry*](https://rentry.co/neon-genesis-angels) [<ins>*strawpage*](https://my-beloved-summer.straw.page/) [<ins>*atabook*](https://hakanai.atabook.org/)
