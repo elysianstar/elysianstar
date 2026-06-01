@@ -20,8 +20,4 @@
 
 <div id="header" align="center">
 
-hello hi under construction ill fix this soon i think
-
-<div id="header" align="center">
-
 [<ins>*rentry*](https://rentry.co/neon-genesis-angels) [<ins>*strawpage*](https://my-beloved-summer.straw.page/) [<ins>*atabook*](https://hakanai.atabook.org/)
