@@ -4,8 +4,6 @@
 
 <div id="header" align="center">
 
-════════════════════════════
-
 <img src="https://www.image2url.com/r2/default/gifs/1780298981653-7b0a3895-4ece-459e-b035-0522b05051ed.gif" width="400" align="center">
 
 <div id="header" align="center">
@@ -16,7 +14,7 @@
   </a>
 </p>
 
-════════════════════════════
+⠀𓎢𓎟𓎟𓎟𓎟𓎟𓎟𓎡
 
 <div id="header" align="center">
 
