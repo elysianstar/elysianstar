@@ -1,8 +1,10 @@
 <div id="header" align="center">
 
+![](https://komarev.com/ghpvc/?username=elysianstar&label=ᖭི༏ᖫྀ+ANGELS+&style=plastic&color=BF0D1C&abbreviated=true)
+
 <img src="https://www.image2url.com/r2/default/gifs/1780298981653-7b0a3895-4ece-459e-b035-0522b05051ed.gif" width="300" align="center">
 
-![](https://komarev.com/ghpvc/?username=elysianstar&label=ᖭི༏ᖫྀ+ANGELS+&style=plastic&color=BF0D1C&abbreviated=true)
+<div id="header" align="center">
 
 hello hi under construction ill fix this soon i think
 
