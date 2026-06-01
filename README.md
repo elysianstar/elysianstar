@@ -8,6 +8,8 @@
 
 <img src="https://www.image2url.com/r2/default/gifs/1780298981653-7b0a3895-4ece-459e-b035-0522b05051ed.gif" width="500" align="center">
 
+ショータイムを今から始めよう !!
+
 ════════════════════════════
 
 <div id="header" align="center">
