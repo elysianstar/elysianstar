@@ -17,8 +17,6 @@
   </a>
 </p>
 
-⠀𓎢𓎟𓎟𓎟𓎟𓎟𓎟𓎡
+hi i will remake this someday
 
 <div id="header" align="center">
-
-[<ins>*rentry*](https://rentry.co/neon-genesis-angels) [<ins>*strawpage*](https://my-beloved-summer.straw.page/) [<ins>*atabook*](https://hakanai.atabook.org/)
