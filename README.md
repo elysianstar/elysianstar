@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-![](https://komarev.com/ghpvc/?username=elysianstar&label=´ཀ`.+&style=plastic&color=488CA3&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=elysianstar&label=´ཀ`.+&style=plastic&color=242424&abbreviated=true)
 
 <div id="header" align="center">
 ㅤㅤㅤㅤㅤㅤㅤ
@@ -14,6 +14,6 @@
   </a>
 </p>
 
-hi i will remake this someday
+you're taking my life from me
 
 <div id="header" align="center">
