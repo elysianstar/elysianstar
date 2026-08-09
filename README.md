@@ -16,6 +16,6 @@
 
 you're taking my life from me
 
-[新book](https://hakanai.atabook.org)
+[新book](https://hakanai.atabook.org) & [listo}(https://listography.com/nolabels02)
 
 <div id="header" align="center">
